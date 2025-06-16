@@ -10,7 +10,7 @@ lerna-debug.log*
 coverage
 node_modules
 dist
-build
+buildasdasdasdasd
 dist-ssr
 *.local
 .env
